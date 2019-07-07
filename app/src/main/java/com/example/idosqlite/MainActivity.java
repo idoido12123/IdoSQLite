@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
             startActivity(t);
         }
         if (st.equals("credits"))
-            Toast.makeText(this, "this app was created by Yam, thanks for ALBERT", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "this app was created by ido", Toast.LENGTH_LONG).show();
         return super.onOptionsItemSelected(item);
     }
 
